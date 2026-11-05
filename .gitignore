@@ -1,0 +1,11 @@
+# Mendix deployment packages (.mda) and their unpacked folders
+packages/
+
+# Generated analysis reports
+reports/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
